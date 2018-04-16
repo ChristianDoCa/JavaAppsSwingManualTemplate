@@ -1,8 +1,8 @@
 <pre>
-Project .....: NetBeansJavaAppTemplate
+Project .....: JavaAppsSwingManualTemplate
 Summary .....: Template for Java Application Projects on NetBeans IDE
-Created .....: 17/04/2017
-Updated .....: 20/08/2017
+Created .....: 16/04/2018
+Updated .....: 16/04/2018
 Author ......: CicloM
 Platform ....: Java 8
 IDE .........: NetBeans 8.2
